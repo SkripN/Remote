@@ -12,9 +12,15 @@ git remote add <имя для репозитория> (origin) <url-adress ре�
 ```
 git pull
 ```
-```
+```C#
 for (int = 0; i < 10; i++)
 {
     Console.WriteLine(i*i)
+}
+```
+```C#
+while (n<0)
+{
+  n++;
 }
 ```
